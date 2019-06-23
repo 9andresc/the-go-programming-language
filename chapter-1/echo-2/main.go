@@ -1,4 +1,4 @@
-// echo-2 prints its command-line arguments.package main
+// echo-2 prints its command-line arguments.
 
 package main
 
